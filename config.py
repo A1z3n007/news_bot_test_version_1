@@ -1,0 +1,2 @@
+class config:
+    TELEGRAM_BOT_TOKEN = '7649061316:AAGTFzOg28plcZBsaDc6rF0TbNeXr42rU6w'
